@@ -1,3 +1,4 @@
+/*
 ------------------------------------------------------------------------- Distribute Candies -------------------------------------------------------------------------
 
 Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, so she visited a doctor.
@@ -31,7 +32,7 @@ n == candyType.length
 2 <= n <= 104
 n is even.
 -105 <= candyType[i] <= 105
-
+*/
 
 class Solution {
     public int distributeCandies(int[] candyType) {
